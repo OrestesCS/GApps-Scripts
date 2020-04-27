@@ -1,3 +1,3 @@
 # Google Apps Scripts
-just to fool around
-this is a text just to introduce
+
+Scripts for Google Apps, mainly based on Google Sheets
