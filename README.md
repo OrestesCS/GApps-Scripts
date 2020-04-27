@@ -1,3 +1,3 @@
-# Google Apps Scripts
+# Random Scripts
 
-Scripts for Google Apps, mainly based on Google Sheets
+Scripts for different projects
